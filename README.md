@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything on mobile development
 - 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on cool mobile projects
-- 📫 How to reach me odujoleedamilare@gmail.com
+- 📫 How to reach me odujoledamilare@gmail.com
 
 <!---
 AJJoules/AJJoules is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
